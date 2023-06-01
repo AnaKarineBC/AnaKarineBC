@@ -1,6 +1,6 @@
 ### Olá, sou a Ana Karine! Seja bem vindo ao meu perfil! 😉
 
-- 🔭 Trabalhando atualmente como freelancer em front-end e mobile
+- 🔭 Sempre em busca de um novo aprendizado!
 - 📩 contato: anakarinecardoso@hotmail.com
 - 🎓 Formação técnica em desenvolvimento de sistemas pela Etec da Zona Leste no programa P-tech. Cursando Análise e desenvolvimento de Sistemas pela Fatec da Zona Leste, estou em busca de aprender e me aperfeiçoar cada vez mais.
 <br>
